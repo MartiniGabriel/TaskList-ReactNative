@@ -1,0 +1,6 @@
+module Pods_TaskListReactNative {
+  umbrella header "Pods-TaskListReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
